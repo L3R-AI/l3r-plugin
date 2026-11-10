@@ -1,0 +1,27 @@
+Copyright (c) 2026 L3R, Inc.
+
+1. Contents
+
+   Everything in this repository except the L3R name and icon (see 2), including README.md, the plugin manifest,
+   the MCP server reference and the skill in skills/, is licensed under the Creative Commons Attribution 4.0
+   International License (CC BY 4.0). To view a copy of this licence, visit
+   https://creativecommons.org/licenses/by/4.0/legalcode
+
+2. Trademarks
+
+   The L3R name, logo and icon (.claude-plugin/icon.png) are trademarks of L3R, Inc. and are not licensed under
+   the licence above.
+
+   You may use them unchanged to refer to L3R, its MCP server and this plugin, for example in a list of plugins or
+   in an article about it. You may not:
+
+   - change them, or combine them with another name or logo;
+   - use them as the name or logo of your own product, service or company;
+   - use them in a way that suggests L3R sponsors, endorses or is affiliated with you or your product.
+
+   Questions about using the name or icon: contact@l3r.io.
+
+3. Data
+
+   This licence covers this repository only. Results returned by the L3R MCP server are governed by its terms of
+   use (https://mcp.l3r.io/terms) and by the attribution each result carries.

@@ -1,0 +1,28 @@
+{
+  "name": "l3r",
+  "displayName": "L3R",
+  "version": "1.1.0",
+  "description": "US property lookups for AI agents: the L3R MCP server plus a skill for using it.",
+  "author": {
+    "name": "L3R, Inc.",
+    "url": "https://l3r.io"
+  },
+  "homepage": "https://l3r.io",
+  "privacyPolicyUrl": "https://mcp.l3r.io/privacy",
+  "repository": "https://github.com/L3R-AI/l3r-plugin",
+  "documentationUrl": "https://github.com/L3R-AI/l3r-mcp",
+  "supportUrl": "https://github.com/L3R-AI/l3r-plugin/issues",
+  "termsOfServiceUrl": "https://mcp.l3r.io/terms",
+  "keywords": [
+    "real estate",
+    "property",
+    "parcel",
+    "zoning",
+    "census",
+    "hazards",
+    "energy",
+    "mcp",
+    "maps",
+    "power plants"
+  ]
+}
